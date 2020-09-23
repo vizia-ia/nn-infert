@@ -1,5 +1,6 @@
-#BIBLIOTECAS NECESS¡RIAS
+#BIBLIOTECAS NECESS√ÅRIAS
 library(shiny)
+library(neuralnet)
 
 #CARREGAR MODELO
 modelo = readRDS('model.rds')
